@@ -2,7 +2,7 @@
 
 Create a simple website that allows you to search for a restaurant and view the results on a map.
 
-## Developnent Requirements
+## Development Requirements
 - Code must be commented
 - Make use of PHP in some way
 - Use both the Google Maps and Google Places APIs
