@@ -10,7 +10,7 @@ Create a simple website that allows you to search for a restaurant and view the 
 
 ## Design Requirements
 - Follow the design file provided (.sketch, .jpg or .pdf)
-- Use a custom font - you can also download it here: http://www.latofonts.com/lato-free-fonts/
+- Use a custom font - you can download it here: http://www.latofonts.com/lato-free-fonts/
 - Layout must be responsive, it's up to you to determine the best layout on small screens
 
 ## Delivery
